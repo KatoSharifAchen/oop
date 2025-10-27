@@ -6,4 +6,4 @@ class students:
     
 students = students ('Kato')
 print (students.name)
-print(students.cgpa)
+print(students.CGpa)
