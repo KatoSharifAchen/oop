@@ -4,6 +4,6 @@ class students:
         self.cgpa=3.5
         self.__password="1234"
     
-students = students ('Kato')
+students = students ('Sharifs')
 print (students.name)
 print(students.CGPA)
